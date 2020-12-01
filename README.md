@@ -50,7 +50,7 @@ The details of the chrome extension are as mentioned below:
 - ID: llboflflonfgmmaeggcbpipgbjjhineh
 
 ### Permissions and Site Access
-This extension requires no special permissions and has no additional site access. By default the extension is disabled in Incognito Mode. Google Chrome cannot prevent extensions from recording your browsing history. To enable this extension in incognito mode, Go to Customize and Control Google Chrome < More Options < Extensions and select the opion manually. By default, the extension is allowed to access file URL's and collect error. This can be unselected manually.
+This extension requires no special permissions and has no additional site access. By default the extension is disabled in Incognito Mode. Google Chrome cannot prevent extensions from recording your browsing history. To enable this extension in incognito mode, Go to Customize and Control Google Chrome < More Options < Extensions and select the opion manually. By default, the extension is allowed to access file URL's and collect error.
 
 # License and Project Status
 The extension package and other resources for developing this chrome extension are distributed under Apache 2.0 license. The project is complete and further improvements can be made by using Javascript.
