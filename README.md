@@ -1,5 +1,3 @@
-![UCEK DSC](https://github.com/ucekdsc/Bookmark/blob/main/DSC%20Logo.png)
-
 # Bookmark Chrome Extension
 Bookmark is a chrome extension (unpacked) that can be used to quick access the social media handles of UCEK DSC. The extension popup displays the available ist of social media handles. Selecting an option, redirects the user to the selected social media handle of the students chapter in a new tab.
 
