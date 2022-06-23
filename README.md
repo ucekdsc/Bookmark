@@ -1,5 +1,5 @@
 # Bookmark Chrome Extension
-
+Bookmark is a  chrome extension for navigating between various social handles with ease
 The project is distributed under the Apache 2.0 License and the project is developed and maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
 
 # Installation and Development
